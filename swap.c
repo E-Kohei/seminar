@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    int x = 34;
+    int x = 51;
     int y = 50;
     
     printf("x is %i\n", x);
@@ -13,7 +13,7 @@ int main(void)
     x = y;
     y = temp;
     int z = 100;
-    
+
     printf("x is now %i\n", x);
     printf("y is now %i\n", y);
 }
